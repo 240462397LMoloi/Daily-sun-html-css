@@ -40,3 +40,5 @@ This project consists of an HTML file and a CSS file:
     </div>
   </body>
 </html>
+
+### CSS Styles
